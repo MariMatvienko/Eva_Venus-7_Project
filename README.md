@@ -17,5 +17,15 @@
 - Чернявская К. В. – проверка отчёта, презентация
 - Юрченко М. А. – Математическая модель, программист
 - Умашев Ш. Б. – оформление отчёта
-
+---
 [Запись полёта ракеты](https://drive.google.com/drive/folders/1Det8l3VjrlRmgYKKlIWmLiaYkFnhxhNg)
+
+Графики:
+<img width="1042" height="376" alt="изображение" src="https://github.com/user-attachments/assets/f66db0d8-3427-4269-9f3a-b22971a4fd1d" />
+<img width="1046" height="394" alt="изображение" src="https://github.com/user-attachments/assets/b9b63a5a-a7c4-4875-b062-3864c610149b" />
+<img width="1070" height="376" alt="изображение" src="https://github.com/user-attachments/assets/e6b482da-5baa-4a44-8d1d-fba387c1a4db" />
+<img width="1011" height="382" alt="изображение" src="https://github.com/user-attachments/assets/8949b1b9-6bdd-432e-a6f5-c542d4895fbc" />
+<img width="1064" height="386" alt="изображение" src="https://github.com/user-attachments/assets/edd429b9-0cde-435b-a615-1f0794857314" />
+
+
+
