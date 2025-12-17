@@ -17,3 +17,5 @@
 - Чернявская К. В. – проверка отчёта, презентация
 - Юрченко М. А. – Математическая модель, программист
 - Умашев Ш. Б. – оформление отчёта
+
+[Запись полёта ракеты]([https://drive.google.com/file/d/1pFDBDI58QZZrtjisR0J3LMO1NM44Bwb1/view?usp=drive_link](https://drive.google.com/drive/folders/1Det8l3VjrlRmgYKKlIWmLiaYkFnhxhNg?usp=sharing))
